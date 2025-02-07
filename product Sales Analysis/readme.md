@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project focuses on analyzing sales data to uncover trends in customer behavior, product performance, and brand engagement. Using Python, the data was cleaned, processed, and visualized to derive actionable insights.
+This project analyzes sales data to uncover trends in customer behavior, product performance, and brand engagement. Using Python, the data was cleaned, processed, and visualized to derive actionable insights.
 
-Features
+## Features
 
 Data Cleaning and Preprocessing
 
@@ -16,7 +16,7 @@ Customer Behavior Analysis
 
 Product and Brand Performance Insights
 
-Technologies Used
+## Technologies Used
 
 Python
 
@@ -28,9 +28,9 @@ Matplotlib
 
 Seaborn
 
-Dataset
+## Dataset
 
-The dataset includes information such as:
+### The dataset includes information such as:
 
 Item ID
 
@@ -48,7 +48,7 @@ Brand
 
 Year
 
-Project Workflow
+## Project Workflow
 
 Data Import: Loaded sales data for analysis.
 
